@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @srivastavaprashant
+- 👀 I’m interested in Data Science, DevOps, and Bio-infomatics. 
+- 🌱 I’m currently learning to solve business problems with data.
+- 💞️ I’m looking to collaborate on trading algorithms.
+- 📫 How to reach me srivsatava.prashant898@gmail.com
